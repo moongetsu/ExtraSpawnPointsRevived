@@ -13,7 +13,7 @@
 
 ## 🧩 About
 
-**Extra Spawn Points (Revived)** is a modernized fork of Christian "gamemann" Deacon’s original **Extra Spawn Points** plugin.
+**Extra Spawn Points (Revived)** is a modernized fork of Christian "gamemann" Deacon’s original [Extra Spawn Points](https://github.com/gamemann/Extra-Spawn-Points) plugin.
 
 It enforces a minimum (or exact) number of CT/T spawns on any map, with extra safeguards to avoid bad positions, plus tools that make debugging and tuning spawns much easier.
 
